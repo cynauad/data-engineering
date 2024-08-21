@@ -26,18 +26,9 @@ Conexion a la Api de [AviationStack](https://aviationstack.com) y extraccion de 
 ### Imagenes 
 #### Airflow
 
-![Getting Started](../Logs%20Final/Airflow-Graph.jpg)
+<a href="https://github.com/cynauad/data-engineering"><img src="https://github.com/cynauad/data-engineering/blob/main/Imgenes%20airflow%2C%20logs%2C%20xcom%2C%20mail/Airflow-Graph.jpg" style="height: 60%; width:60%;"/></a>
 
-![Getting Started](../Logs%20Final/Airflow-Grid.jpg)
-
-#### Logs
-![Getting Started](../Logs%20Final/Log%20task1.jpg)
-![Getting Started](../Logs%20Final/Log%20task2.jpg)
-![Getting Started](../Logs%20Final/Log%20task3.jpg)
-![Getting Started](../Logs%20Final/Log%20task4.jpg)
+<a href="https://github.com/cynauad/data-engineering"><img src="https://github.com/cynauad/data-engineering/blob/main/Imgenes%20airflow%2C%20logs%2C%20xcom%2C%20mail/Airflow-Grid.jpg" style="height: 60%; width:60%;"/></a>
 
 #### Xcom
-![Getting Started](../Logs%20Final/Xcom1.jpg)
-
-#### SMTP
-![Getting Started](../Logs%20Final/SMTP%20-%20mail%20recibido.jpg)
+<a href="https://github.com/cynauad/data-engineering"><img src="https://github.com/cynauad/data-engineering/blob/main/Imgenes%20airflow%2C%20logs%2C%20xcom%2C%20mail/Xcom1.jpg" style="height: 60%; width:60%;"/></a>
